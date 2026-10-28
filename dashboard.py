@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Dashboard title
-st.title("📊 AI Sales Data Analyst")
+st.title("📊 Gourav's Sales Data Analyst")
 st.write("Analyze your sales, revenue, and profit.")
 
 # Load data
