@@ -4,7 +4,7 @@ import pandas as pd
 
 # Page settings
 st.set_page_config(
-    page_title="AI Sales Data Analyst",
+    page_title="Gourav's Sales Data Analyst",
     page_icon="📊",
     layout="wide"
 )
